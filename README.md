@@ -24,24 +24,34 @@
 - 고혈압 발병률 예측 AI 모델 개발
     - 질환자, 비질환자 3만여 명의 진료 내역 데이터 이용
     - logistic regression, ExtraTrees, Catboost, LightGBM 머신러닝 모델 이용하여 AI 모델 개발
-      ![image](https://github.com/gapalyt/project4/assets/72669002/71d99e57-482f-44c5-a5c7-e2617bd16a09)
+
+       ![image](https://github.com/gapalyt/project4/assets/72669002/71d99e57-482f-44c5-a5c7-e2617bd16a09)
+      
     - 약 7000개의 질환 데이터에 대한 탐색적 데이터 분석을 기반으로 가설 검증을 통해 데이터셋 구 
       축, 논문을 바탕으로 3개의 파생변수를 생성하여 경우의 수를 조합 후 모델링 진행
 - 서비스 제공을 위한 웹앱 개발
-    - ![image](https://github.com/gapalyt/project4/assets/72669002/7a37f612-53c6-4d1f-aeb3-df235c4ce356)
+
+      ![image](https://github.com/gapalyt/project4/assets/72669002/7a37f612-53c6-4d1f-aeb3-df235c4ce356)
+  
     - 원클릭 고혈압 진단 및 병원 추천 서비스 “HITOSIGNAL” 
       건강보험심사평가원의 캐릭터인 히토(히라토끼)/HITO가 사용자에게 고혈압 위험 신호를 보낸다는 
       아이디어로 착안된 만성질환 예측 및 우수 병원 추천 서비스
     - 웹 기능 1 : 고혈압 발병 위험도 확인
+
       ![image](https://github.com/gapalyt/project4/assets/72669002/c531d9f6-32ec-4629-96e1-5d4ec8e92667)
+      
       고혈압 발병확률과 사용자 연령대 및 성별의 고혈압 유병률을 나타내고 , 위험도 별 경고 메시지를
       알려주는 페이지
     - 웹 기능 2 : 사용자 맞춤 고혈압 관리 및 정보 제공
+
       ![image](https://github.com/gapalyt/project4/assets/72669002/b53cd821-8220-426c-b620-5182a776b817)
+      
       고혈압 정보 및 통계, 사용자별 고혈압 관리를 위한 수치 기록과 건강관리 체크리스트 등을
       제공한 페이지
     -  웹 기능 3 : 우수 병원 연계 추천
-    - ![image](https://github.com/gapalyt/project4/assets/72669002/51bfe138-8da8-4bdb-b31e-1a81395ec984)
+
+       ![image](https://github.com/gapalyt/project4/assets/72669002/51bfe138-8da8-4bdb-b31e-1a81395ec984)
+       
     - 현재 사용자 위치를 기반으로 거리별 병원 목록을 나타내며, 병원 검색 등을 위한 페이지
 
 ## 💁‍♀️ 담당한 역할
