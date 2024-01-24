@@ -30,8 +30,7 @@
     - 약 7000개의 질환 데이터에 대한 탐색적 데이터 분석을 기반으로 가설 검증을 통해 데이터셋 구 
       축, 논문을 바탕으로 3개의 파생변수를 생성하여 경우의 수를 조합 후 모델링 진행
 - 서비스 제공을 위한 웹앱 개발
-
-      ![image](https://github.com/gapalyt/project4/assets/72669002/dc22205e-5411-4f96-9cfa-e8fce548c4a5)
+      ![image](https://github.com/gapalyt/project4/assets/72669002/53a1aa47-8801-4710-9735-b6e9f5607f19)
 
   
     - 원클릭 고혈압 진단 및 병원 추천 서비스 “HITOSIGNAL” 
