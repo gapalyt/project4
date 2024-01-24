@@ -33,7 +33,6 @@
 
       ![image](https://github.com/gapalyt/project4/assets/72669002/c476a7a6-d753-44d0-ac1d-e440e8f349b9)
 
-
     - 원클릭 고혈압 진단 및 병원 추천 서비스 “HITOSIGNAL” 
       건강보험심사평가원의 캐릭터인 히토(히라토끼)/HITO가 사용자에게 고혈압 위험 신호를 보낸다는 
       아이디어로 착안된 만성질환 예측 및 우수 병원 추천 서비스
