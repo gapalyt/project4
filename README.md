@@ -31,7 +31,8 @@
       축, 논문을 바탕으로 3개의 파생변수를 생성하여 경우의 수를 조합 후 모델링 진행
 - 서비스 제공을 위한 웹앱 개발
 
-      ![image](https://github.com/gapalyt/project4/assets/72669002/7a37f612-53c6-4d1f-aeb3-df235c4ce356)
+      ![image](https://github.com/gapalyt/project4/assets/72669002/dc22205e-5411-4f96-9cfa-e8fce548c4a5)
+
   
     - 원클릭 고혈압 진단 및 병원 추천 서비스 “HITOSIGNAL” 
       건강보험심사평가원의 캐릭터인 히토(히라토끼)/HITO가 사용자에게 고혈압 위험 신호를 보낸다는 
